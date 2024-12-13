@@ -4,6 +4,4 @@ description: still test
 show_downloads: True
 navigation:
   - title: Test
-    url: https://www.google.com/
-  - title: Test encore
-    url: example.md
+    url: example
